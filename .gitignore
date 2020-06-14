@@ -1,0 +1,8 @@
+key/
+*/.terraform/*
+.DS_Store
+.envrc
+*.tfstate
+*.tfstate.*
+.idea/
+
